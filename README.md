@@ -8,3 +8,4 @@ I have participated in following Kaggle competitions till now:
 3. Real or Not? NLP with Disaster Tweets
 4. Titanic Survival Prediction
 5. [Sorghum -100 Cultivar Identification - FGVC 9 ](https://www.kaggle.com/competitions/sorghum-id-fgvc-9/overview)
+6. Tabular Playground Feb 2021
